@@ -26,7 +26,7 @@ This repository contains a machine learning model for predicting the survival of
 3. The notebook includes steps for data preprocessing, model training, hyperparameter tuning, and evaluation.
 
 ### File Structure
-- `Titanic_Survival_Prediction.ipynb`: Google Colab notebook containing the implementation of the Titanic survival prediction model.
+- `Titanic Survival prediction 1.ipynb`: Google Colab notebook containing the implementation of the Titanic survival prediction model.
 
 ## Acknowledgements
 - Kaggle for providing the Titanic dataset.
